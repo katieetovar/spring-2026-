@@ -1,0 +1,7 @@
+----
+layout: post 
+author: Katie Tovar
+title: Welcome to Our Course 
+excerpt_separator: <!--more-->
+---
+# Hellooo class this is katie #
